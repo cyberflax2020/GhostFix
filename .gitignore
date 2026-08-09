@@ -1,0 +1,18 @@
+﻿# PowerShell
+*.ps1.bak
+*.ps1.tmp
+
+# 测试文件
+test/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE
+.vscode/
+.idea/
+
+# 日志
+*.log

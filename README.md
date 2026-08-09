@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/cyberflax2020/GhostFix/releases)
 
-> **中文** | A Windows GUI tool that recursively scans and repairs ghost files — filenames corrupted by **NFD (decomposed) Unicode encoding** caused by the Tuxera NTFS driver on macOS, rendering files inaccessible.
+> **English** | A Windows GUI tool that recursively scans and repairs ghost files — filenames corrupted by **NFD (decomposed) Unicode encoding** caused by the Tuxera NTFS driver on macOS, rendering files inaccessible.
 >
 > **中文** | 一款 Windows GUI 工具，递归扫描并修复因 macOS Tuxera NTFS 驱动导致的 **NFD 分解式 Unicode 文件名编码**问题（俗称"幽灵文件"），使文件在 macOS 上恢复正常访问。
 

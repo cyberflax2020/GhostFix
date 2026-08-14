@@ -1,14 +1,14 @@
-﻿# Test files (sample NFD files for testing)
+# Test files (sample NFD files for testing) | 测试文件（用于测试的 NFD 样本）
 test/
 
-# System files
+# System files | 系统文件
 Thumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-# IDE
+# IDE settings | IDE 配置
 .vscode/
 .idea/
 
-# Generated logs
+# Generated logs | 生成的日志文件
 *.log
